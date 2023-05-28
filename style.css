@@ -1,0 +1,36 @@
+body {
+	background: url(https://www.collinsdictionary.com/images/full/americanfootball_345202907_1000.jpg);
+        background-attachment: fixed;
+}
+p {
+	font-size: 24px;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+        color: white;
+}
+h1 {
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: white;
+        text-align: center;
+        font-size: 50px;
+    }
+ .p1 {
+ 	width: 60px;
+ 	height: 50px;
+ }
+
+img {
+        width: 100px;
+        height: 100px;
+}
+
+section {
+        display: flex;
+        justify-content: inline-block;
+}
+
+a {
+        text-decoration: none;
+        background-image: linear-gradient(to right, cyan, yellow);
+        font-size: 30px;
+        border-radius: 10px;
+}
